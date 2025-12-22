@@ -1,46 +1,31 @@
-### **Hey, I'm Jacy.**
+<div align="center">
 
-### About Me
+# hey, i'm jason 👋
 
-I build for the web, mobile, and machines that learn. Right now, I’m somewhere between code and clarity—writing, iterating, trying to make the invisible visible.
-When I’m not debugging or designing, I drift between F1 race weekends, cars, tech rabbit holes, and ambient playlists.
-
-### Tools I Use
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle.png" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="40"/>
-</div>
-
-### Learning Right Now
-
-* ML fundamentals and practicals
-* How to build things people care about
-* Clean, maintainable software that doesn’t fall apart at scale
-
-### GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arion52\&show_icons=true\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arion52\&theme=tokyonight\&layout=donut\&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+**developer @ [asklexy](https://asklexy.me)** • building stuff that (hopefully) doesn't break on prod
+co-founding **LifeXP**
 
 ---
 
-Right now, I’m also working on something called **lifeXP**—a quiet little attempt to make personal growth more intentional, one experience at a time.
+### what I mess around with
 
-Thanks for being here. Take care. Stay hydrated. Keep building. 🚀
+`python` `django` `flutter` `next.js` `pytorch` `postgresql` `aws` `fedora workstation`
 
-![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF6cm94dmJhajV5NjFiM2pvcWc1YTZxenp5N3owNmdobHNwcTF0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif)
+---
 
+### currently cooking
+
+AI-powered language learning • explainable medical ai • multi-agent chaos  
+also: f1 telemetry breakdowns, different eq profiles, and way too much coffee
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxjason20&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/jxjason20)
+
+---
+
+**peak productivity: 9pm - 3am** • **cs '27** • **ISTP** 
+
+[jacyverse.tech](https://jacyverse.tech) • stay hydrated, keep building 🚀
+
+</div>
