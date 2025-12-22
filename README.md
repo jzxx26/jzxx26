@@ -48,18 +48,18 @@ const jason = {
         frontend: ["Flutter", "Next.js", "React", "TailwindCSS"],
         ai_ml: ["PyTorch", "TensorFlow", "scikit-learn", "SHAP", "OpenCV"],
         cloud: ["AWS", "Vercel", "Supabase"],
-        devOps: ["Docker", "Git", "Linux (Fedora KDE)", "Bash"]
+        devOps: ["Git", "Linux (Fedora Workstation)", "Bash"]
     },
     
     currentFocus: "Scaling AI platforms from 0 to production",
     funFacts: [
         "🌙 Peak productivity: 9pm - 3am",
-        "🎵 Love creating EQ profiles for fun",
+        "🎵 10 different EQ profiles for different artists",
         "🏎️ F1 telemetry analysis enthusiast",
         "☕ Coffee-powered debugging sessions"
     ],
     
-    certifications: ["AWS Solutions Architect (in progress)"]
+    certifications: ["ML A-Z"]
 };
 ```
 
@@ -77,7 +77,7 @@ const jason = {
 <td width="50%">
 
 ### 🤖 AI & ML Projects
-- **Multi-Agent Orchestration** - Claude Code and other agentic workflows
+- **Multi-Agent Orchestration** - Claude Code workflows
 - **F1 Telemetry Analysis** - Race strategy simulations
 
 </td>
@@ -101,7 +101,7 @@ const jason = {
 ## 🛠️ Tech Arsenal
 
 <!-- Tech Stack with hover animations -->
-<img src="https://skillicons.dev/icons?i=python,django,flutter,dart,nextjs,react,js,ts,postgresql,pytorch,tensorflow,opencv,aws,docker,git,linux,vscode,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,django,flutter,dart,nextjs,react,js,ts,postgresql,pytorch,tensorflow,opencv,aws,git,linux,figma&perline=8" />
 
 <br><br>
 
@@ -124,20 +124,6 @@ const jason = {
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jzjason20&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
-
-<!-- Fancy Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=jzjason20&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-<!-- Fancy Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🎵 Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l3wkeq2aior6p2q7k7fgfn3ddi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31l3wkeq2aior6p7k7fgfn3ddi&redirect=true)
 
 <!-- Fancy Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
