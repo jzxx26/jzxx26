@@ -20,7 +20,7 @@ also: f1 telemetry breakdowns, different eq profiles, and way too much coffee
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxjason20&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/jxjason20)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jzjason20&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/jzjason20)
 
 ---
 
