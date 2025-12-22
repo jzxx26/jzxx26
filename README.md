@@ -48,19 +48,16 @@ const jason = {
         frontend: ["Flutter", "Next.js", "React", "TailwindCSS"],
         ai_ml: ["PyTorch", "TensorFlow", "scikit-learn", "SHAP", "OpenCV"],
         cloud: ["AWS", "Vercel", "Supabase"],
-        devOps: ["Docker", "Git", "Linux (Fedora KDE)", "Bash"]
+        devOps: ["Docker", "Git", "Linux (Daily driving: Fedora Workstation)", "Bash"]
     },
     
     currentFocus: "Scaling AI platforms from 0 to production",
     funFacts: [
         "🌙 Peak productivity: 9pm - 3am",
-        "🏒 Ex-hockey goalie turned builder",
         "🎵 10 different EQ profiles for different artists",
         "🏎️ F1 telemetry analysis enthusiast",
         "☕ Coffee-powered debugging sessions"
     ],
-    
-    certifications: ["AWS Solutions Architect (in progress)"]
 };
 ```
 
