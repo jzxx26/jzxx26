@@ -1,5 +1,3 @@
-<div align="center">
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=hey%2C+i'm+jason+%F0%9F%91%8B;developer+%40+asklexy;co-founder+%40+lifexp;cs+'27+%E2%80%A2+istp" alt="Typing SVG" />
 </a>
@@ -24,10 +22,10 @@
 <table align="center" style="border: none;">
 <tr>
 <td align="center" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=jxjason20&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jzjason20&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
 </td>
 <td align="center" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxjason20&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzjason20&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </td>
 </tr>
 </table>
@@ -39,6 +37,4 @@
 
 <br>
 
-[jacyverse.tech](https://jacyverse.tech)
-
-</div>
+know more [about me](https://jacyverse.tech)
