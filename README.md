@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+i'm+jason+%F0%9F%91%8B;developer+%40+asklexy;co-founder+%40+lifexp;full-stack+%2B+ml+engineer;night+owl+coder+%F0%9F%8C%99;f1+telemetry+nerd+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jason+%F0%9F%91%8B;developer+%40+AskLexy;co-founder+%40+lifexp;full-stack+%2B+ml+engineer;night+owl+coder+%F0%9F%8C%99;f1+nerd+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br>
@@ -77,6 +77,7 @@ const jason = {
 <td width="50%">
 
 ### 🤖 AI & ML Projects
+- **[AskLexy](https://asklexy.me)** - AI powered Language learning platform
 - **Multi-Agent Orchestration** - Claude Code workflows
 - **F1 Telemetry Analysis** - Race strategy simulations
 
@@ -84,8 +85,7 @@ const jason = {
 <td width="50%">
 
 ### 🚀 Product Development
-- **AskLexy Platform** - Architecting 90% of the codebase
-- **LifeXP** - Gamified personal growth with childhood friend
+- **LifeXP** - Gamified personal growth
 - **Portfolio Optimization** - Investment analysis tools
 - **Various Side Projects** - Because why not? 🤷‍♂️
 
