@@ -112,8 +112,7 @@ const jason = {
 
 <!-- GitHub Stats Cards -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jzjason20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jzjason20&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jzjason20&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <br>
 
 <!-- Language Stats & Productive Time -->
