@@ -48,16 +48,18 @@ const jason = {
         frontend: ["Flutter", "Next.js", "React", "TailwindCSS"],
         ai_ml: ["PyTorch", "TensorFlow", "scikit-learn", "SHAP", "OpenCV"],
         cloud: ["AWS", "Vercel", "Supabase"],
-        devOps: ["Docker", "Git", "Linux (Daily driving: Fedora Workstation)", "Bash"]
+        devOps: ["Docker", "Git", "Linux (Fedora KDE)", "Bash"]
     },
     
     currentFocus: "Scaling AI platforms from 0 to production",
     funFacts: [
         "🌙 Peak productivity: 9pm - 3am",
-        "🎵 10 different EQ profiles for different artists",
+        "🎵 Love creating EQ profiles for fun",
         "🏎️ F1 telemetry analysis enthusiast",
         "☕ Coffee-powered debugging sessions"
     ],
+    
+    certifications: ["AWS Solutions Architect (in progress)"]
 };
 ```
 
@@ -75,9 +77,7 @@ const jason = {
 <td width="50%">
 
 ### 🤖 AI & ML Projects
-- **PTE Speaking Test Prep** - AI-powered language assessment
-- **Explainable Medical AI** - UNet + SHAP for diabetic retinopathy
-- **Multi-Agent Orchestration** - Claude Code workflows
+- **Multi-Agent Orchestration** - Claude Code and other agentic workflows
 - **F1 Telemetry Analysis** - Race strategy simulations
 
 </td>
@@ -112,15 +112,13 @@ const jason = {
 
 <!-- GitHub Stats Cards -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jzjason20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jzjason20&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 
-<a width="49%" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jzjason20&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <br>
 
-<!-- Language Stats -->
+<!-- Language Stats & Productive Time -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzjason20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-<!-- Activity Graph -->
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jzjason20&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jzjason20&theme=radical&utcOffset=5.5" />
 
 <br><br>
 
@@ -131,8 +129,15 @@ const jason = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jzjason20&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=jzjason20&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/> -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=jzjason20&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🎵 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l3wkeq2aior6p2q7k7fgfn3ddi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31l3wkeq2aior6p7k7fgfn3ddi&redirect=true)
 
 <!-- Fancy Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
