@@ -1,46 +1,184 @@
 <div align="center">
 
+<!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=hey%2C+i'm+jason+%F0%9F%91%8B;developer+%40+asklexy;co-founder+%40+lifexp;cs+'27+%E2%80%A2+istp" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+i'm+jason+%F0%9F%91%8B;developer+%40+asklexy;co-founder+%40+lifexp;full-stack+%2B+ml+engineer;night+owl+coder+%F0%9F%8C%99;f1+telemetry+nerd+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" />
 </a>
-
-<p><i>building stuff that (hopefully) doesn't break on prod</i></p>
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+<!-- Animated Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jzjason20/jzjason20/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jzjason20/jzjason20/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jzjason20/jzjason20/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jxjason20&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
+<!-- Cool badges -->
+<img src="https://img.shields.io/badge/Developer-AskLexy-58a6ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMiAxMmgtNCI+PC9wYXRoPjxwYXRoIGQ9Ik02IDEySDIiPjwvcGF0aD48cGF0aCBkPSJNMTIgMnY0Ij48L3BhdGg+PHBhdGggZD0iTTEyIDE4djQiPjwvcGF0aD48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ij48L2NpcmNsZT48L3N2Zz4=" alt="AskLexy" />
+<img src="https://img.shields.io/badge/Co--Founder-LifeXP-ff6b6b?style=for-the-badge&logo=rocket&logoColor=white" alt="LifeXP" />
+<img src="https://img.shields.io/badge/CS-'27-4ecdc4?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="CS '27" />
+<img src="https://img.shields.io/badge/ISTP-Architect-95e1d3?style=for-the-badge&logo=brain&logoColor=white" alt="ISTP" />
+
+<br><br>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=jzjason20&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="profile views" />
+
+<br><br>
+
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+## 🎯 What I'm All About
+
+```typescript
+const jason = {
+    role: "Full-Stack + ML Engineer",
+    currentlyBuilding: ["AI Language Learning Platform", "LifeXP - Gamified Growth"],
+    code: ["Python", "Dart", "TypeScript", "JavaScript", "Java", "C++"],
+    architecture: ["Microservices", "Event-Driven", "Multi-Agent Systems"],
+    
+    techStack: {
+        backend: ["Django", "FastAPI", "Node.js", "PostgreSQL"],
+        frontend: ["Flutter", "Next.js", "React", "TailwindCSS"],
+        ai_ml: ["PyTorch", "TensorFlow", "scikit-learn", "SHAP", "OpenCV"],
+        cloud: ["AWS", "Vercel", "Supabase"],
+        devOps: ["Docker", "Git", "Linux (Fedora KDE)", "Bash"]
+    },
+    
+    currentFocus: "Scaling AI platforms from 0 to production",
+    funFacts: [
+        "🌙 Peak productivity: 9pm - 3am",
+        "🏒 Ex-hockey goalie turned builder",
+        "🎵 10 different EQ profiles for different artists",
+        "🏎️ F1 telemetry analysis enthusiast",
+        "☕ Coffee-powered debugging sessions"
+    ],
+    
+    certifications: ["AWS Solutions Architect (in progress)"]
+};
+```
+
+<div align="center">
+
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🔥 Currently Cooking
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & ML Projects
+- **PTE Speaking Test Prep** - AI-powered language assessment
+- **Explainable Medical AI** - UNet + SHAP for diabetic retinopathy
+- **Multi-Agent Orchestration** - Claude Code workflows
+- **F1 Telemetry Analysis** - Race strategy simulations
+
+</td>
+<td width="50%">
+
+### 🚀 Product Development
+- **AskLexy Platform** - Architecting 90% of the codebase
+- **LifeXP** - Gamified personal growth with childhood friend
+- **Portfolio Optimization** - Investment analysis tools
+- **Various Side Projects** - Because why not? 🤷‍♂️
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🛠️ Tech Arsenal
+
+<!-- Tech Stack with hover animations -->
+<img src="https://skillicons.dev/icons?i=python,django,flutter,dart,nextjs,react,js,ts,postgresql,pytorch,tensorflow,opencv,aws,docker,git,linux,vscode,figma&perline=9" />
+
+<br><br>
+
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jzjason20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jzjason20&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 
 <br>
 
-### 🔥 currently cooking
+<!-- Language Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzjason20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
-**ai-powered language learning** • **explainable medical ai** • **multi-agent chaos**  
-also: f1 telemetry breakdowns 🏎️ • different eq profiles • way too much coffee ☕
+<!-- Activity Graph -->
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jzjason20&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" />
 
-<br>
+<br><br>
 
-**peak hours:** 9pm - 3am 🌙 • **ex-hockey goalie** 🏒 • **night owl coder** 💻
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jzjason20&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
 
-<br>
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-**[jacyverse.tech](https://jacyverse.tech)** • stay hydrated, keep building 🚀
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=jzjason20&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🎵 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l3wkeq2aior6p2q7k7fgfn3ddi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31l3wkeq2aior6p7k7fgfn3ddi&redirect=true)
+
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🤝 Let's Connect
+
+<a href="https://jacyverse.tech" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-jacyverse.tech-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/jzjason20" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/jazjason20" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:jxjason20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
+
+### 💙 Thanks for stopping by!
+
+<p><i>stay hydrated • keep building • ship fast, break things (responsibly) 🚀</i></p>
+
+<!-- Visitor Counter Animation -->
+<img src="https://count.getloli.com/get/@jzjason20?theme=rule34" alt="visitor count" />
 
 </div>
