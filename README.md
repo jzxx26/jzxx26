@@ -9,9 +9,9 @@
 
 <!-- Animated Snake eating contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jzjason20/jzjason20/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jzjason20/jzjason20/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jzjason20/jzjason20/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jzxx26/jzxx26/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jzxx26/jzxx26/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jzxx26/jzxx26/output/github-snake.svg">
 </picture>
 
 <br><br>
@@ -25,7 +25,7 @@
 <br><br>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=jzjason20&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=jzxx26&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="profile views" />
 
 <br><br>
 
@@ -111,19 +111,19 @@ const jason = {
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jzjason20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzjason20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jzxx26&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzxx26&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 <br>
 
 <!-- Productive Time & Commit Stats -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jzjason20&theme=radical&utcOffset=5.5" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzjason20&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jzxx26&theme=radical&utcOffset=5.5" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzxx26&theme=radical" />
 
 <br><br>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jzjason20&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jzxx26&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
 
 <!-- Fancy Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -137,10 +137,10 @@ const jason = {
 
 ## 🤝 Let's Connect
 
-<a href="https://jacyverse.tech" target="_blank">
+<a href="https://jzxx.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-jacyverse.tech-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://linkedin.com/in/jzjason20" target="_blank">
+<a href="https://linkedin.com/in/jzxx26" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/jazjason20" target="_blank">
@@ -160,6 +160,6 @@ const jason = {
 <p><i>stay hydrated • keep building • ship fast, break things (responsibly) 🚀</i></p>
 
 <!-- Visitor Counter Animation -->
-<img src="https://count.getloli.com/get/@jzjason20?theme=rule34" alt="visitor count" />
+<img src="https://count.getloli.com/get/@jzxx26?theme=rule34" alt="visitor count" />
 
 </div>
