@@ -138,7 +138,7 @@ const jason = {
 ## 🤝 Let's Connect
 
 <a href="https://jzxx.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-jacyverse.tech-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FPortfolio-jzxx.dev-58a6ff%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite">
 </a>
 <a href="https://linkedin.com/in/jzxx26" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
